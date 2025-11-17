@@ -4,9 +4,9 @@ My biggest passion is cybersecurity. I love learning new stuff, so I have gained
 # I always learn new stuff.
 ## Currently learning
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white)
 <br/>
 Some practice projects:
+- [Caesar Cipher](https://github.com/sokiGit/caesarcipher)
 - [LogAnalyzer](https://github.com/sokiGit/LogAnalyzer)
 - [Remaking all Java school assingments in Rust](https://github.com/sokiGit/PRG2F_Rust)
 - [A testing game in Rust + Bevy](https://github.com/sokiGit/RustGaem)
