@@ -1,3 +1,4 @@
+![Banner image](assets/top_banner.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S51Q99DO)<br/>
 Hi! I'm a high school student interested in cybersecurity, programming, game dev, and anything related to computers.
 <br/>
