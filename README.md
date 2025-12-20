@@ -8,6 +8,7 @@ My biggest passion is cybersecurity. I love learning new stuff, so I have gained
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 <br/>
 Some recent practice projects:
+- [School System](https://github.com/sokiGit/school-system)
 - [Click counter](https://github.com/sokiGit/PRG_RS-click_counter_0)
 - [Caesar Cipher](https://github.com/sokiGit/caesarcipher)
 - [LogAnalyzer](https://github.com/sokiGit/LogAnalyzer)
