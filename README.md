@@ -7,7 +7,8 @@ My biggest passion is cybersecurity. I love learning new stuff, so I have gained
 ## Currently learning
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 <br/>
-Some recent practice projects:
+Some recent practice Rust projects:
+- [My own software rendering](https://github.com/sokiGit/rawrendering)
 - [School System](https://github.com/sokiGit/school-system)
 - [Click counter](https://github.com/sokiGit/PRG_RS-click_counter_0)
 - [Caesar Cipher](https://github.com/sokiGit/caesarcipher)
@@ -52,7 +53,7 @@ We learned Java in school, it was pretty cool, taught me new concepts in program
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-Technologies I have experimented with relation to web development.
+Technologies I have experimented with in relation to web development.
 <br/>
 PyQt - For building GUI applications in Python (with PySide6) (see my [Session Sniffer-inspired project](https://github.com/sokiGit/meowmeowmeowmeow))
 <br/>
