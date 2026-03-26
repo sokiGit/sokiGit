@@ -1,5 +1,7 @@
 ![Banner image](assets/top_banner.png)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S51Q99DO)<br/>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S51Q99DO)
+![GitLab](https://img.shields.io/badge/New-sokiGit-white?style=for-the-badge&logo=gitlab)
+<br/> 
 Hi! I'm a high school student interested in cybersecurity, programming, game dev, and anything related to computers.
 <br/>
 My biggest passion is cybersecurity. I love learning new stuff, so I have gained *some* experience with many technologies over the years. From UI/UX design all the way over to hardware hacking.
