@@ -1,15 +1,25 @@
 ![Banner image](assets/top_banner.png)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S51Q99DO)
-![GitLab](https://img.shields.io/badge/New-sokiGit-white?style=for-the-badge&logo=gitlab)
-<br/> 
+[![GitLab](https://img.shields.io/badge/New-sokiGit-white?style=for-the-badge&logo=gitlab)](https://gitlab.com/sokiGit)
+
+> I moved to [Gitlab](https://gitlab.com/sokiGit)! And also started using my own self-hosted private Git server, so not all my activity is here or anywhere online :3
+
 Hi! I'm a high school student interested in cybersecurity, programming, game dev, and anything related to computers.
-<br/>
+
 My biggest passion is cybersecurity. I love learning new stuff, so I have gained *some* experience with many technologies over the years. From UI/UX design all the way over to hardware hacking.
+
 # I always learn new stuff.
+
 ## Currently learning
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-<br/>
+
 Some recent practice Rust projects:
+
+- Many small web servers using Axum, Minijinja, Turso, Reqwest, etc.
+- My self-hosted website on [soki.win](https://soki.win) that I sometimes use for experimenting with public-facing services. (Currently redirects to my Gitlab-based portfolio)
+- A small web server that uses the Stripe API to create a checkout session and greet the user when they come back.
 - [My own software rendering](https://github.com/sokiGit/rawrendering)
 - [School System](https://github.com/sokiGit/school-system)
 - [Click counter](https://github.com/sokiGit/PRG_RS-click_counter_0)
@@ -17,6 +27,7 @@ Some recent practice Rust projects:
 - [LogAnalyzer](https://github.com/sokiGit/LogAnalyzer)
 - [Remaking all Java school assingments in Rust](https://github.com/sokiGit/PRG2F_Rust)
 - [A testing game in Rust + Bevy](https://github.com/sokiGit/RustGaem)
+- And many others :3 I experiment with crates, learn new tech and try out stuff I find interesting
 
 # Where I have the most experience
 ## UI/UX Design
