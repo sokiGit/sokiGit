@@ -9,6 +9,16 @@ Hi! I'm a high school student interested in cybersecurity, programming, game dev
 
 My biggest passion is cybersecurity. I love learning new stuff, so I have gained *some* experience with many technologies over the years. From UI/UX design all the way over to hardware hacking.
 
+# My passion - secure systems design, high-assurance
+
+I spend a lot of time thinking about secure, fault-tolerant system architecture. I love taking a complex problem and designing solutions from the ground up—building systems that remain resilient against hardware/software failures, communicate securely, minimize attack surface, and strictly contain blast radiuses if a component is compromised.
+
+I gravitate toward technologies built for mathematical correctness and safety, such as Rust and the seL4 Microkernel, to eliminate entire classes of bugs and vulnerabilities. Beyond theory, I put this into practice:
+- I built a messaging app partially implementing the core concepts of the Signal Protocol.
+- Also designed and self-host a homelab with strict isolation to minimize the impacts of a compromise.
+
+My goal is to work in **Systems Architecture, High-Assurance Engineering, or R&D**—building software and infrastructure where security and reliability are fundamental guarantees, not afterthoughts.
+
 # I always learn new stuff.
 
 ## Currently learning
@@ -70,4 +80,7 @@ Technologies I have experimented with in relation to web development.
 <br/>
 PyQt - For building GUI applications in Python (with PySide6) (see my [Session Sniffer-inspired project](https://github.com/sokiGit/meowmeowmeowmeow))
 <br/>
-And there's probably much and much more. So much, in fact, that I can't even remember it all, and it'd be too much for a simple README anyway haha
+I've worked on personal projects across the entire stack, from UI/UX down to systems programming and hardware hacking.
+<br/>
+I also have some experience with Microsoft products like Azure DevOps, Intune, Graph API, though I never particularly enjoyed working with them.
+Alternatively I also have experience with platforms like Cloudflare, which I use for stuff related to my website, and Gitlab/Github, which I use to host my public repos, and a bare-bones Git server for my personal home repositories. 
